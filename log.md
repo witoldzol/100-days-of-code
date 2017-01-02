@@ -8,14 +8,14 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: January 2nd, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Decided to continue with basic JavaScript tutorial on freeCodeCamp, and tackle miniproject.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Usning loops and if statements together turned out to be quite tricky. Finally I figured out that loops wouldnt keep iterating  if I had two 'if' statements in one loop. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 
 
 ### Day 1: June 27, Monday
