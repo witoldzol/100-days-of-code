@@ -1,0 +1,201 @@
+// JS NOTES // 
+
+/ remove last element of array
+.pop()   
+
+/remove first element of array
+.shift()
+
+/add element to end of array
+.push()
+
+/add element to beginning of array
+.unshift()
+
+Arguments are actual Values, passed to function, when it is called
+Parameters are PLACEHOLDERS for values (that are to be input) in function
+
+Remember that variables listed in function are LOCAL, and they take precedence over Global (if same name)
+
+return Parameter + 5 (for example) (use return in function)
+
+queue is a Data Structure where items are kept in order (duhhh)
+
+OPERATORS:
+== equality (it will convert data types, so 7 == ‘7’ is ‘true’) [ it is DIFFERENT from ‘=‘ which ASSIGNS VALUE!!
+=== strict equality (will NOT convert data types, so 7 === ‘7’ is false)
+!= not equal (opposite of ==, converts data) e.g.. 1 != 2 (true), 1 != ‘1’ (false)
+> greater than ( converts data types), 6 > “4” (true)
+>= greater/ equal (converts data)
+< less than
+<= less than or equal
+&&  logical and // ALL OPERANDS must be true, for statement to be true // e.g. if (num >5 && num<10) {return ‘’number is between6 and 9’’} else…
+||  logical or  // if either OPERAND is true, result will be true
+else - execute when ‘if’ statement is not true
+else if - you can chain several if statements this way
+
+switch: example: 
+switch (expr) {
+  case "Oranges":
+    console.log("Oranges are $0.59 a pound.");
+    break;
+  case "Apples":
+    console.log("Apples are $0.32 a pound.");
+    break;
+…
+	default
+	console.log(“this is default statement if every other case fails”)
+}
+
+Objects:
+they store data (like arrays) but you access/ modify that data via PROPERTIES
+EG. var cat = {
+  "name": "Whiskers",
+  "legs": 4,
+  "tails": 1,
+  "enemies": ["Water", "Dogs"]
+};
+(no comma after last property, semicolon after last curly bracket!)
+
+you can access object via ‘.’ or []
+eg. var myVar = myObj.myProperty;
+	var myVar =myObj[‘myProperty’];(if property has a space ‘my Propery’, u have to use backets)
+You can also lookup object using a variable
+
+var myName = W;
+myObj ={
+Name : W
+};
+var myTest = myObj[myName]; (no quotes around variable name, because we use it’s value not it’s name!!)
+
+
+You can add properties to object / same as modifying their values:
+myObject.myProp = ‘whatever’;
+You can DELETE property:
+delete myObj.myProp;
+
+You can check if object has a given property:
+var myObj = {
+  top: "hat",
+  bottom: "pants"
+};
+myObj.hasOwnProperty("top");    // true
+myObj.hasOwnProperty("middle"); // false
+
+
+
+for loops
+
+for ([initialization]; [condition]; [final-expression])
+
+eg. 
+for (i=0; i < myArray.length; i++) {
+var total += myArray[i];
+}
+
+REMEMBER: when looping you can only add one ‘if’ statement, otherwise the loop will end executing on first iteration!!! So just create new loop for new ‘if’ condition
+
+
+Math.random() (CASE SENSITIVE!!!) (0 - 0.999999999999999)
+
+Math.floor - round down value to whole number.
+eg. Math.floor(Math.random() * (max - min + 1)) + min (gives random, whole number between Max and Min).
+
+Look for words/ patterns in strings:
+
+var testString = "Ada Lovelace and Charles Babbage designed the first computer and”;
+// Example
+var expressionToGetSoftware = /software/gi;
+g- global (count all instances of word, not just first)
+i - ignore lower/upper case
+var softwareCount = testString.match(expressionToGetSoftware).length;
+
+Look for digits:
+
+var expression = /\d+/g;
+\d - escaped ‘d’ stands for digit
++ - allows to match one or more digits
+g- global
+
+Whitespace etc:
+We can also use regular expression selectors like \s to find whitespace in a string.
+The whitespace characters are " " (space), \r (the carriage return), \n (newline), \t (tab), and \f (the form feed).
+Invert selection by using capital letters:
+
+For example, \s will match any whitespace, and \S will match anything that isn't whitespace.
+
+CONSTRUCTOR function (start with capital letter to distinguish them)
+
+var Car = function() {
+  this.wheels = 4;
+  this.engines = 1;
+  this.seats = 5;
+};
+// to create new instance of this object use ‘new’ + constructor +()
+var myCar = new Car();
+
+Map Method(goes through each element in an array and applies whatever we want)(argument val? what the fuck is it? no idea and why, but we do not declare it, ie. no var val before)
+
+var oldArray = [1, 2, 3];
+var timesFour = oldArray.map(function(val){
+  return val * 4;
+});
+console.log(timesFour); // returns [4, 8, 12]
+console.log(oldArray);  // returns [1, 2, 3]
+
+
+REDUCE METHOD
+It will reduce all elements of an array into one. Second argument(i.e. 0) is optional, and defines starting value.
+Example:
+var array = [4,5,6,7,8];
+var singleVal = 0;
+
+singleVal = array.reduce(function(previousVal, currentVal){
+  return previousVal + currentVal;
+  
+},0);
+
+FILTER method
+Goes through an array elements, and removes  everything that returns ‘false’.
+//example - removes items that are higher or equal to 6
+var oldArray = [1,2,3,4,5,6,7,8,9,10];
+
+var newArray = oldArray.filter(function(val){
+  return val <6;
+});
+
+SORT method
+can be passed a compare function as a callback. The compare function should return a negative number if a should be before b, a positive number if a should be after b, or 0 if they are equal. IF NO CALLBACK (function (a,b)…so just array.sort()…it will convert all to strings and order alphabetically.
+
+//example:
+var array = [1, 12, 21, 2];
+array.sort(function(a, b) {
+  return a - b;
+});
+
+REVERSE method
+reverse is another array method that alters the array in place, but it also returns the reversed array.
+var myArray = [1, 2, 3];
+myArray.reverse();
+
+CONCAT method
+Concatenates array to the END of another array.
+
+//example
+newArray = oldArray.concat(otherArray);
+
+SPLIT method
+
+uses the argument you pass in as a delimiter to determine which points the string should be split at.
+
+//example
+var string = ‘whatever is there’
+var array = []
+var array = string.split('s');
+
+JOIN method
+Converts array into string with specified argument between each element of array
+//Example
+var veggies = ["Celery", "Radish", "Carrot", "Potato"];
+var salad = veggies.join(" and ");
+console.log(salad); // "Celery and Radish and Carrot and Potato" 
