@@ -16,8 +16,8 @@ day 1:
 //- remember to twit at day end progress and update log
 
 day 2:
-- 50 swings
-- dinner
-- pack dinner
-- 6pm 
-- twit progress
+//- 50 swings
+//- dinner
+//- pack dinner
+//- 6pm 
+//- twit progress
