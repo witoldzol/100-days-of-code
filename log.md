@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: January 2nd, 2017
+### Day 0: January 2nd, 2017, Monday
 
 
 **Today's Progress**: Decided to continue with basic JavaScript tutorial on freeCodeCamp, and tackle miniproject.
@@ -18,12 +18,19 @@
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 
 
-### Day 1: June 27, Monday
+### Day 1: January 3rd, 2017, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started working on FreeCodeCamp basic algorithm challenges.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Figuring out algorithms is great fun. It really forces me to flex my brain and makes me practice what I've learned so far.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
+
+### Day 2: January 4th, Wednesday
+
+**Today's Progress**: I continued working on FreeCodeCamp basic algorithm challenges.
+
+**Thoughts** Great fun, I'm feeling confident when solving those puzzles. They've set the difficulity to reasonable level. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
