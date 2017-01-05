@@ -34,3 +34,12 @@
 **Thoughts** Great fun, I'm feeling confident when solving those puzzles. They've set the difficulity to reasonable level. 
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
+
+
+### Day 3: January 5th, Thursday
+
+**Today's Progress**: I've completed 3 algorithms: 'Find the longest word in a string', 'capitalize first letter of every word', and 'return largest number from array/subarray'
+
+**Thoughts** Beginning was tough, I couldn't figure out how loops work, but I kept at it. I finished evening with great sense of satisfaction once things made sense, and code worked. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
