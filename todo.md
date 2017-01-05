@@ -21,3 +21,10 @@ day 2:
 //- pack dinner
 //- 6pm 
 //- twit progress
+
+day 3:
+
+-50 swings
+-dinner
+-help Bart with bike
+-neuroshima at 7
