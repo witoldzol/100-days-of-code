@@ -24,7 +24,7 @@ day 2:
 
 day 3:
 
--50 swings
+//-50 swings
 -dinner
--help Bart with bike
--neuroshima at 7
+//-help Bart with bike
+//-neuroshima at 7

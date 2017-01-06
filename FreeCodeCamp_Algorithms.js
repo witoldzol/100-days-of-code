@@ -194,5 +194,57 @@ confirmEnding("He has to give me a new name", "name");
 
 
 
+//-------------------------------------------------//8// repeat string
+
+function repeatStringNumTimes(str, num) {
+  // declared variable
+  var myStr = str;
+     //if num lower than zero, return empty string
+    if(num<=0){
+      myStr = "";
+      //otherwise loop and concotenate string
+    } for(i=1; i <num; i++){
+    myStr = myStr + str;
+  }
+  
+  return myStr;
+ 
+}
+
+repeatStringNumTimes("abc", 3);
+//-------------------------------------------------//9// truncate string at given point
+function truncateString(str, num) {
+  //declared variables
+ var myStr;
+ var sLen = str.length;
+  
+  if(num<=3){
+    
+    return str.slice(0,num) + '...';
+  
+    
+  } else if (num >= sLen){
+    str = str + '...';
+    return str.slice(0,sLen);
+  }
+   
+  return str.slice(0,num-3) + '...';
+  
+}
+
+truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2);
 //-------------------------------------------------
 //-------------------------------------------------
+//-------------------------------------------------
+//-------------------------------------------------
+//-------------------------------------------------
+
+
+
+
+
+
+
+
+
+
