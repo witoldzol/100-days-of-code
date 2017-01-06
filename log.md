@@ -43,3 +43,25 @@
 **Thoughts** Beginning was tough, I couldn't figure out how loops work, but I kept at it. I finished evening with great sense of satisfaction once things made sense, and code worked. 
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
+
+
+### Day 4: January 6th, Friday
+
+**Today's Progress**: Completed another two algorithm 'puzzles'
+
+**Thoughts** Couldn't wait to get back to algorithms! Very happy with the fact how much I'm enjoying solving puzzles. Since it's Friday, I'm conding only for an hour.
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
+
+
+
+
+
+
+
+
+
+
+
+
+
