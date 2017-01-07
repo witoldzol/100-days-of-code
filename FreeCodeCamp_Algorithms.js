@@ -167,6 +167,7 @@ function largestOfFour(arr) {
  return arr3;
 
 //-------------------------------------------------//7// compare last word/letter of string to target word/character
+
 function confirmEnding(str, target) {
  
  //split string into array to separate each word
@@ -212,7 +213,9 @@ function repeatStringNumTimes(str, num) {
 }
 
 repeatStringNumTimes("abc", 3);
+
 //-------------------------------------------------//9// truncate string at given point
+
 function truncateString(str, num) {
   //declared variables
  var myStr;
@@ -233,9 +236,98 @@ function truncateString(str, num) {
 }
 
 truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2);
-//-------------------------------------------------
-//-------------------------------------------------
-//-------------------------------------------------
+
+//-------------------------------------------------//10// split array into chunks
+
+//lets declare our variables  var arr2 = [];
+  var lng = arr.length;
+  //we need to iterate enough times to slice up every part of array
+  //so if we take length, and divide it by size of chunks, we know how many times we have to iterate
+  var ite = lng / size;
+  //we declare our starting position for .slice() method OUTSIDE OF LOOP! 
+  //if we include it inside, loop will simply reset values of those variables on each iteration
+  var x =0;
+  var y =size;
+  //standard for loop
+  for(i=0; i<ite; i++){
+    
+    arr2.push(arr.slice(x,y));
+    //after we push elements into new array, we increment starting position for slice method
+    x+=size;
+    y+=size;
+    
+  }
+  //hapy days
+  return arr2;
+
+
+//------------------ simplier solution, with .splice() method ------
+//using .splice() method is very easy
+//it MODIFIES the original array ( unlike .slice() ), and puts removed elements into new array
+
+
+function chunkArrayInGroups(arr, size) {
+
+  var arr2 =[];
+  var lng = arr.length;
+  var ite = lng / size;
+  
+    for(i=0; i< ite; i++){
+    //because, unlike .slice(), removes items from original array, we dont have to make any adjustments!
+
+    //originally i declared 'spl' outside of loop, and it kept giving the same output with each iteration...because, it 
+    //took values from original 'arr' array declared outside the loop!	
+    var spl = arr.splice(0,size);
+    arr2.push(spl);
+        
+  }
+ 
+  return arr2;
+}
+
+chunkArrayInGroups([0, 1, 2, 3, 4, 5], 2);
+
+//------------------------------------------------- // 12//  check index of --- see if string 2 has all the letters present in string 1
+
+function mutation(arr) {
+ 
+ //we bring both strings to lower case, because .indexOf() is case sensitive   
+ arr1 = arr[1].toLowerCase();
+ //I also split second string into array of single characters
+ arrLower = arr[0].toLowerCase().split(''); 
+ 
+  //now we iterate each element of array filled with  single characters, and see if they return index against the other string
+  // .indexOf() will return -1, if it cannot find given char/string, 
+  //if it can it will give index number corresponding to location of that character in tested string
+  for(i=0; i<arr1.length; i++){
+    //so if we get -1, we know that character is not in tested string and we can return false
+    if(arrLower.indexOf(arr1[i]) == -1){
+      return false;
+    }
+    
+  } return true;
+  
+}
+
+mutation(["zyxwvutsrqponmlkjihgfedcba", "qrstu"]);
+
+//------------------------------------------------- // 12 // Remove NaN, '',null, undefined, 0's from array
+function bouncer(arr) {
+  
+  arr2 = arr.filter(function(v){
+  	//i have no idea why this works
+    return v;   
+    //this is another version that works...but again, last bit does the job...so i include this as a reference for future
+    //also 'isNaN' will return NaN and strings (they both return true)
+
+    return typeof v == "string" && v!== "" || (typeof v == 'number' && v);
+  });
+
+  return arr2;
+}
+
+bouncer([7, "ate", "", 9, false, null, 0, NaN, undefined, ""]);
+
 //-------------------------------------------------
 //-------------------------------------------------
 

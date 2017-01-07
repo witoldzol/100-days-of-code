@@ -28,3 +28,19 @@ day 3:
 -dinner
 //-help Bart with bike
 //-neuroshima at 7
+
+
+day 5:
+
+//-dinner
+//-call joe
+-fix bike
+//-twit
+//-shopping
+
+day 6:
+
+-application
+-call Joe
+-twit
+-50 swings

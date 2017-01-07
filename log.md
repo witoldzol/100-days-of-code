@@ -54,7 +54,13 @@
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
 
+### Day 5: January 7th, Saturday
 
+**Today's Progress**: Completed another three algorithm 'puzzles'
+
+**Thoughts** I had fun today. At the end of fourth hour I got tired of it though. Theres so much information to take in at onece, that it quickly becomes overwhelming. Anyway, good day of work. I'm happy.
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
 
 
