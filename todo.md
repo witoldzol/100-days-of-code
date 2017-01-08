@@ -42,5 +42,14 @@ day 6:
 
 -application
 -call Joe
+//-twit
+//-50 swings
+
+day 7:
+
+-swings
+-application
 -twit
--50 swings
+
+
+

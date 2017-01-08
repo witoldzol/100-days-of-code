@@ -328,8 +328,75 @@ function bouncer(arr) {
 
 bouncer([7, "ate", "", 9, false, null, 0, NaN, undefined, ""]);
 
-//-------------------------------------------------
-//-------------------------------------------------
+//------------------------------------------------- // 13 // Remove all itemes from first element that are specified in remaining arguments
+
+//in this  case there can be any number of additional arguments
+function destroyer(arr) {
+ 
+ //first I create empty array for arguments
+  var keys= [];
+  // I use loop to push all the arguments in the array
+  for (i=1; i<arguments.length; i++){
+      keys.push(arguments[i]);
+  }    
+  //next, I define string/array to be filtered
+  var filtered = arr;
+  
+  return filtered.filter(function(x){
+    //this is the bit I couldn't figure out, first I tried to loop through filter function, but that didn't work, as each iteration kept puting
+    //new result in defined variable, so i ended up with string filtered by the last key
+
+
+    //this approach is amazing, (not mine!). From previous algo we know that if element is not present it will return -1 if we use .indexOf()
+    //other piece is also hard for me to grasp, ie. the defined element x in function...if I understand correctly, x will be replaced by each 
+    //element of array that we filter out..so 1,2,3,5... So if we return only items that cannot be found in 'keys' array (return -1), we end up
+    //we have a winner! Absolutely brillian in it's simplicity. 
+    return keys.indexOf(x) === -1;
+    
+  });   
+ 
+destroyer([1, 2, 3, 5, 1, 2, 3], 2, 3);
+
+
+
+
+
+//------------------------------------------------- // 14 // Sort array in ascending order and insert element in proper place, 
+//-----------------------------------------------------------return index of inserted element
+
+function getIndexToIns(arr, num) {
+  
+//first we sort array ascending  
+arr2 = arr.sort(function(a,b){
+  return a-b;
+});
+//we define length of array for ease of use later on(not necessary really)
+  var last = arr.length;
+
+  //loop
+  for(i=0; i<arr.length; i++){
+    //since we want to insert element in order, we look for first element in array that is bigger than value we want to insert
+    //we have equal sign because if there is equal value, we want the new value to be inserted in front of it
+    if (num<=arr2[i]){
+    	//now magic, we splice arr, remove nothing, and insert value. job done...almost!
+     arr.splice(i,0,num);
+     //we were asked to return index at which we insert the new value in the array
+     return i;
+     
+     //in situation where new value is bigger than any other in array, 
+     //we simply can .push() it to the end of string and return index = length of array
+
+     // -1 because iteration in loop will not get to full length of array ( i<arr.length)
+    } else if (i===last-1){
+      arr.push(num);
+     return last;
+    }
+  }
+ 
+}
+
+getIndexToIns([2, 5, 10], 15);
+
 
 
 

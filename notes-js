@@ -205,13 +205,46 @@ returns given word/string starting from specified character .subStr(2) - 3rd let
 example:
 word[0].toUpperCase() + word.substr(1);
 
-SLICE()
+.SLICE()
 string.slice(x,y)
-creates NEW string, from character ‘x’ to ‘y’.
+creates NEW string, from character ‘x’ to ‘y’. DOESN’T modify original array
 //example
 var str =‘123456789’
 
 str.slice(0,3) // 1234
+
+.SPLICE(x,y,z)
+Creates a new array, MODIFIES original array (by removing elements from it)
+x is starting position (element in array)
+y number of items to be deleted from starting position (i.e. 0,2 in array [1,2,3], will return [1,2]
+z element to be added at the end of the newly created array
+
+.splice can be used to insert items into array. we just splice array without deleting anything! 
+example:
+array.splice(2,0,666): we create a new array, remove nothing at index 2, and inserted at defined index (2), number 666. job done!
+
+remember that ‘return array.splice(2,0) = will have nothing in it, because it will
+return what we removed ie. nothing! 
+
+
+.toLowerCase()
+does what is says on the tin
+
+.indexOf()   and .lastIndexOf()
+- it checks if given character/string is present in tested string, and returns its location. returns -1 if it is not present. 
+last index will give….last index value in string…who knew!
+this method is CASE SENSITIVE!
+
+//example
+'Blue Whale'.indexOf('Blue');     // returns  0
+'Blue Whale'.indexOf('Blute');    // returns -1
+
+
+
+
+
+
+
 
 
 

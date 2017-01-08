@@ -62,7 +62,13 @@
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
+### Day 6: January 8th, Sunday
 
+**Today's Progress**: Completed another two algorithm 'puzzles'
+
+**Thoughts** Feeling very lazy today, no energy whatsoever. The good thing is that I decided to work on code at a set time each day. It helps with motivation, because when the clock rings, I gotta sit in front of computer and start hacking. No excuses. Progress was slow, but I ended up enjoying myself. It takes time to understand things properly, and I don't pressure myself to get things done as fast as possible. I take my time to really figure out what is it that I'm doing and how to best solve problems at hand. I ended up learning really cool stuf, and I finish my day feeling good about the whole process. Good times
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
 
 
