@@ -398,11 +398,62 @@ arr2 = arr.sort(function(a,b){
 getIndexToIns([2, 5, 10], 15);
 
 
+//-------------------------------------------- // 15 // ------decode ROT13 cipher
+
+// ----------------- function to generate alphabet (from given argument to argument)
+//NOT NEEDED FOR THIS ALOG, made just for fun and because too lazy to type out all alphabet
+function makeAlph(first, last){
+   var arr=[], i=first.charCodeAt(0), j=last.charCodeAt(0);
+    for(; i<=j; ++i){
+      arr.push(String.fromCharCode(i));
+    }
+    return arr;
+    
+  } 
+var alph = makeAlph('A','Z');
 
 
+// -------------------- DE - CYPHER
 
+function rot13(str) { // LBH QVQ VG!
+ 
+ // split the string to get an array
+  str1 = str.split('');
+  
+ // .map method works only with arrays, thats why we split it
+  var arrA = str1.map(function(x){
+ //we change each letter into character code    
+    return x.charCodeAt();
+  });
+ //now that we have all translated, we can apply easy math to transform them
+  var arrB = arrA.map(function(y){
+ // 65 is 'A', '78' is 'M' - we stay in this space so that we can apply adequate transformation,
+ // and to ensure that we do not transform special characters (they are to remain unchanged as per requirements)
+    if (65<=y && y <78){
+      return y + 13;
+// again this is rest of alphabe up to 'Z'
+//originally I didn't includ '&&' and I couldn't figure out what was wrong!!!!!! 
+    } else if(78<=y && y<91){ 
+      return y -13;
+    } //if character is out of scope, just return it unchanged
+    return y;
+  });
+  
+//again we use map to go through each element and transform it back to letters/characters
+  var arrC = arrB.map(function(z){
 
+  	//notice that this method is different from .charCodeAt()
+  	//we cannot use this method on arrays!!! I don't fully understand why this work, but hey...I figured this  out on my own, so fudge it.
+    return String.fromCharCode(z);
+  });
+  //finally, we transform array back into string = WIN !!!!
+  return arrC.join('');
+  
+ 
+}
 
+// Change the inputs below to test
+rot13("LBH QVQ VG!");
 
 
 

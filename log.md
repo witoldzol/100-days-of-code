@@ -70,7 +70,13 @@
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
+### Day 7: January 9th, Monday
 
+**Today's Progress**: I've completed basic Algorithms exercises on FCC
+
+**Thoughts** Didn't really feel like coding today. Again, 6pm I was in front of computer. I had last algo to do, and was keen to figure it out. I have to admit, it was really fun getting it done step by step, seeing results materialize in front of my eyes. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
 
 

@@ -47,7 +47,7 @@ day 6:
 
 day 7:
 
--swings
+//-swings
 -application
 -twit
 
