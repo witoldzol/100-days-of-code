@@ -49,7 +49,16 @@ day 7:
 
 //-swings
 -application
+//-twit
+
+day 8:
+//-swings
 -twit
+-figure out brackets, and how to use sass
+-set up files for project
+
+
+
 
 
 

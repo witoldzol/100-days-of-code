@@ -79,7 +79,12 @@
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol] [https://github.com/witoldzol/100-days-of-code/blob/master/FreeCodeCamp_Algorithms.js]
 
 
+### Day 8: January 10th, Tuesday
 
+**Today's Progress**: I've completed tutorial on JSON and AJAX. Installed Brackets, and played around with it. Set up files for new project. 
 
+**Thoughts** Didn't code much today, tutorial was very passive, and didn't explain much. It's time to do projects on my own, and figure stuff out while I go along. No more hand holding it seems. Excited!
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 
 
