@@ -87,4 +87,11 @@
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 
+### Day 9: January 11th, Wednesday
+
+**Today's Progress**: Very little progress today. I've tried to set up Brackets editor with PrePros. The idea was to write code in jade/sass, have it processed by PrePros, and have Brackets autoupdate linked website. Alas, that didn't work out the way I hoped. Prepros did it's job, but Brackets just wouldn't notice that html changed. So back to square 1. Gonna work with vanilla html and css (smart idea come to think of it.)
+
+**Thoughts** I'm bit annoyed at myself that I'm not doing any actual coding. This is second day where I faf around setting things up and playing with tools, instead of learning how to actually code. Oh well, I guess I have to get this out of my system, get over new toys and move along. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 

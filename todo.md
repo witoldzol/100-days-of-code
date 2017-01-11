@@ -51,11 +51,19 @@ day 7:
 -application
 //-twit
 
-day 8:
+day 8/9:
 //-swings
+//-twit
+//-figure out brackets, and how to use sass
+//-set up files for project
+
+day 10:
+-swings
 -twit
--figure out brackets, and how to use sass
--set up files for project
+-write JS, no excuses !!! 
+- read about documentation req for passport
+
+day 11:
 
 
 
