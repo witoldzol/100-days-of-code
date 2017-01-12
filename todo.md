@@ -58,10 +58,11 @@ day 8/9:
 //-set up files for project
 
 day 10:
--swings
--twit
--write JS, no excuses !!! 
-- read about documentation req for passport
+//-swings
+//-twit
+//-write JS, no excuses !!! 
+//- read about documentation req for passport
+//-dinner
 
 day 11:
 

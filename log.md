@@ -95,3 +95,10 @@
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
 
+### Day 10: January 12th, Thursday
+
+**Today's Progress**: I've started over 1h late today. I did very little, managed to pull JSON file from server, using API. So that's awesome, but code wise I learned very little. 
+
+**Thoughts** I feel I have no idea what to do when working on this project. I haven't done any exercises that would solidify very short overview of JSON /AJAX/ API. So I'm on my own! Progress is very slow, and it's frustrating. I have to take that on board and start with very simple, and basic functionalities. Repetition is the key. Looking forward to tomorrow.
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol]
