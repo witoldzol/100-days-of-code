@@ -102,3 +102,11 @@
 **Thoughts** I feel I have no idea what to do when working on this project. I haven't done any exercises that would solidify very short overview of JSON /AJAX/ API. So I'm on my own! Progress is very slow, and it's frustrating. I have to take that on board and start with very simple, and basic functionalities. Repetition is the key. Looking forward to tomorrow.
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol][https://github.com/witoldzol/randomQuote]
+
+### Day 11: January 13th, Friday
+
+**Today's Progress**: Finished 'Random Quote Machine'. 
+
+**Thoughts** I feel wretched. I've spent well over 2 hours finetuning 20 lines of code. I feel like I havent learned anything. I still don't understand anything about jQuery, nor for that matter API's or javascript itself. Oh well, gotta march on. Bit by bit, it will all unravel eventually. 
+
+**Link(s) to work**: [https://www.freecodecamp.com/witoldzol][https://github.com/witoldzol/randomQuote]

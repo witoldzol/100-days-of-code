@@ -65,6 +65,11 @@ day 10:
 //-dinner
 
 day 11:
+//-swings
+//-twit
+
+day 12:
+-new project on fcc
 
 
 
