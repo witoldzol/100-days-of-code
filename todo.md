@@ -69,7 +69,16 @@ day 11:
 //-twit
 
 day 12:
--new project on fcc
+//-new project on fcc
+//-swings
+
+day 13:
+-dinner
+-shopping
+-gather documentation for application
+-call home
+
+
 
 
 

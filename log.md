@@ -110,3 +110,14 @@
 **Thoughts** I feel wretched. I've spent well over 2 hours finetuning 20 lines of code. I feel like I havent learned anything. I still don't understand anything about jQuery, nor for that matter API's or javascript itself. Oh well, gotta march on. Bit by bit, it will all unravel eventually. 
 
 **Link(s) to work**: [https://www.freecodecamp.com/witoldzol][https://github.com/witoldzol/randomQuote]
+
+### Day 12: January 14th, Saturday
+
+**Today's Progress**: Really finished Random Quote Machine! I Improved css, added twitter button, and implemented random background color transition when button is pressed. 
+
+**Thoughts** I was apprehensive approaching project after yesterday. But the first thing that I've done upon waking up, was getting my laptom and researching javascript. I needed to get it done. Coding is on my mind all the time now, and I'm loving it. Seeing smooth transitions between colors made my day. So simple, yet so awesome!!!
+
+**Link(s) to work**: [http://codepen.io/Witold/pen/KaMoPp][https://github.com/witoldzol/randomQuote]
+
+
+
