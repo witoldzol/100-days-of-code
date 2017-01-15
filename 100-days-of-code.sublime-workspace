@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tex",
+				"text_to_tweet"
+			],
+			[
+				"twi",
+				"twitterLink"
+			],
+			[
+				"te",
+				"text_to_tweet"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
 				"my",
 				"myValue"
 			],
@@ -39,12 +59,36 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 187.0,
+		"last_filter": "Package Control: re",
 		"selected_items":
 		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pi",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: po",
+				"Package Control: Add Repository"
+			]
 		],
-		"width": 0.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -62,13 +106,27 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/eldrad/Desktop/Git/100-days-of-code"
-	],
 	"file_history":
 	[
+		"/Users/eldrad/Desktop/Git/templates/untitled",
+		"/Users/eldrad/Desktop/Git/weatherApp/style.css",
+		"/Users/eldrad/Desktop/Git/100-days-of-code/todo.md",
+		"/Users/eldrad/Desktop/Git/weatherApp/Ajax_practice",
+		"/Users/eldrad/Desktop/Git/randomQuote/script.js",
 		"/Users/eldrad/Desktop/Git/100-days-of-code/log.md",
+		"/Users/eldrad/Desktop/Git/randomQuote/style.css",
+		"/Users/eldrad/Desktop/Git/randomQuote/index.html",
+		"/Users/eldrad/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/eldrad/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/eldrad/Desktop/Git/randomQuote/test.js",
+		"/Users/eldrad/Library/Application Support/Sublime Text 3/Packages/Browser Refresh/Default (OSX).sublime-keymap",
+		"/Users/eldrad/Desktop/Git/100-days-of-code/js_methods",
+		"/Users/eldrad/Desktop/test.html",
+		"/Users/eldrad/Desktop/Git/Random_quote/index.jade",
+		"/Users/eldrad/Desktop/Git/Random_quote/index.html",
+		"/Users/eldrad/Desktop/Git/100-days-of-code/JSON_Ajax.md",
+		"/Users/eldrad/Desktop/Git/100-days-of-code/notes-js",
+		"/Users/eldrad/Desktop/Git/100-days-of-code/JSON APIs and Ajax",
 		"/Users/eldrad/Desktop/Git/100-days-of-code/rules.md",
 		"/Users/eldrad/Desktop/Git/100-days-of-code/to do.md",
 		"/Users/eldrad/Desktop/Git/100-days-of-code/resources.md",
@@ -77,7 +135,6 @@
 		"/Users/eldrad/Desktop/Git/ToDo.md",
 		"/Users/eldrad/Desktop/Git/100-days-of-code/TO DO.md",
 		"/Users/eldrad/Desktop/Git/100days/TO DO",
-		"/Users/eldrad/Desktop/test.html",
 		"/Users/eldrad/Downloads/Ex_Files_Bs3EssT/Exercise Files/Ch03/03_01/bootstrap/index.html",
 		"/Users/eldrad/Downloads/Ex_Files_Bs3EssT/Exercise Files/Ch03/03_01/bootstrap/Styles",
 		"/Users/eldrad/Downloads/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04/bootstrap/index.html",
@@ -100,6 +157,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"class",
+			"main",
+			"n\"",
+			"div",
+			"test",
+			"div",
+			"test",
 			"col",
 			"md",
 			"6",
@@ -133,7 +197,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -175,17 +239,21 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sty",
+				"style.css"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{

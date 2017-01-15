@@ -73,12 +73,20 @@ day 12:
 //-swings
 
 day 13:
--dinner
--shopping
+//-dinner
+//-shopping
 -gather documentation for application
 -call home
+//-swings
+//-tweet
 
-
+day 14:
+-get geolocation from gmaps 
+-get weather from openweather
+-swings
+-tweet
+-BONUS:google translate: get greeting in language based on geolocation?
+-
 
 
 

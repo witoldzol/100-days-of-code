@@ -119,5 +119,11 @@
 
 **Link(s) to work**: [http://codepen.io/Witold/pen/KaMoPp][https://github.com/witoldzol/randomQuote]
 
+### Day 13: January 14th, Sunday
 
+**Today's Progress**:I've done research on Ajax, API's, signed for google and openWeather Api's, written markup for weatherApp, created pen, and finally, I've listened to my housemate bitch about his life and then made him to finally fix his goddamn bicycle tyre. 
+
+**Thoughts** It was going to be a productive day, but reality struck hard, and I ended up smoking rollies with friends, cooking dinner, watching movie I didn't really enjoyed(La La Land- it's great, I just hate musicals in general), and finally, chatting with housemates about life, philosophy, and how  they are misguided creatures that need to amend their ways. I didn't get much done, but I'm still happy. Today was a good day. 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/randomQuote]
 
