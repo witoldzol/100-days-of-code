@@ -121,9 +121,17 @@
 
 ### Day 13: January 14th, Sunday
 
-**Today's Progress**:I've done research on Ajax, API's, signed for google and openWeather Api's, written markup for weatherApp, created pen, and finally, I've listened to my housemate bitch about his life and then made him to finally fix his goddamn bicycle tyre. 
+**Today's Progress**:I've done research on Ajax, API's, and Sublime editor. I've signed for google and openWeather Api's, written markup for weatherApp, created pen, and finally, I've listened to my housemate bitch about his life, and then I made him to finally fix his goddamn bicycle tyre. 
 
 **Thoughts** It was going to be a productive day, but reality struck hard, and I ended up smoking rollies with friends, cooking dinner, watching movie I didn't really enjoyed(La La Land- it's great, I just hate musicals in general), and finally, chatting with housemates about life, philosophy, and how  they are misguided creatures that need to amend their ways. I didn't get much done, but I'm still happy. Today was a good day. 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/randomQuote]
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 14: January 15th, Monday
+
+**Today's Progress**:I've managed to  hook up google's and onlineweather's api's and display data from json. I've also managed to display a picture corresponding to current weather conditions. Now I'm trying to figure out how to get working a toggle button to display temperature in either celcius or farhen...heit? degrees. 
+
+**Thoughts** I'm having a blast. I kinda know what to do, but at the same time I keep learning bit by bit.  Not feeling overwhelmed. I'm in a good place.
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
 

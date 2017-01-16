@@ -81,9 +81,9 @@ day 13:
 //-tweet
 
 day 14:
--get geolocation from gmaps 
--get weather from openweather
--swings
+//-get geolocation from gmaps 
+//-get weather from openweather
+//-swings
 -tweet
 -BONUS:google translate: get greeting in language based on geolocation?
 -
