@@ -135,3 +135,11 @@
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
 
+### Day 15: January 16th, Tuesday
+
+**Today's Progress**:I've got literraly nothing done. 
+
+**Thoughts** I can't make jQuery work, or is fault in html? Who knows! I can't get that fucking button do a siple on/off. I'm extremely frustraded, and angry. I've tried doing some codewars cata's earlier on today. That was a mistake, because it made me realise how little I know, and how much I've already forgotten things that I thought I knew how to do. Extremely demorolising experience. I'm going to call it a night, not getting anything done, just getting more a more angry at myself.
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
