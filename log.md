@@ -143,3 +143,10 @@
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
 
+### Day 16: January 17th, Wednesday
+
+**Today's Progress**: I got the button working. In one minute. Like...seriously?! Overall, I finished the weather app. 
+
+**Thoughts** Couldn't believe that button would just work. I was using wrong jQuery call (click, instead of .on("click")). Anyway, I didn't feel like coding today, really felt apprehensive about yesterday's experience. But I made myself to sit in front of computer, and the rest, is a history...
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
