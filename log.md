@@ -150,3 +150,19 @@
 **Thoughts** Couldn't believe that button would just work. I was using wrong jQuery call (click, instead of .on("click")). Anyway, I didn't feel like coding today, really felt apprehensive about yesterday's experience. But I made myself to sit in front of computer, and the rest, is a history...
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 17: January 18th, Thursday
+
+**Today's Progress**: Got done very little. Set up project files, looked at wiki api rules. 
+
+**Thoughts** I'm falling off the wagon. I break my own rules. Wiki project feels overwhelming. I have to break it up. Wrap my head around it. Take my time to learn and understand how things work. So far it feels as if I copy pasted all the code. I have no idea what I'm doing. But that's ok, lets get things working, and figure out why later. 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 18: January 19th, Friday
+
+**Today's Progress**: Done a bit of research on wiki API, didn't learn anything. Wow. 
+
+**Thoughts** Again feeling lazy, the scale of the problem feels overwhelming. No idea how to start. Can't even get the API to work. Gonna take a step back today. I feel tired. 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
