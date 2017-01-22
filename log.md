@@ -175,3 +175,11 @@
 **Thoughts** I'm feeling very down. No motivation to work on code whatsoever. It's like all my energy completely fizzled out. Suddenly coding might not be something that I want to pursue. It's amazing how quickly things can change in my head. Anyway, it was to be expected, thatj's why I'm working on developing routine that will keep me going even if I don't feel like it. I'm making very little progress at the moment but I will find a way out, and pick up a pace. I decided that getting thing to work is more important that trying to understand what is it that I'm doing. So, ill ship first and hope that one day I will get it. No worries.
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 20: January 21th, Sunday
+
+**Today's Progress**: Finished wiki.APP with all bonus features ie. random wiki button, and autocomplete ui! 
+
+**Thoughts** I'm excited! Finally I got it done. I was stuck for few days, and now that I figured out what to do, solution seems so simple. I can't believe how easy it was. But what is really of importance, is the fact that now matter how grim situation looks, next day, things don't seem so hard or insurmountable. I really happy that I managed to figure out myself how to lay out the results, utilising my existing knowledge. Somehow it validated all the time that I've put so far in learning JS. It's like: 'yea! I actually learned something'. Happy days. 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
