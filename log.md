@@ -159,10 +159,19 @@
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
 
+
 ### Day 18: January 19th, Friday
 
 **Today's Progress**: Done a bit of research on wiki API, didn't learn anything. Wow. 
 
 **Thoughts** Again feeling lazy, the scale of the problem feels overwhelming. No idea how to start. Can't even get the API to work. Gonna take a step back today. I feel tired. 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 19: January 20th, Saturday
+
+**Today's Progress**: Changed markup, got closer to figuring out api settings. 
+
+**Thoughts** I'm feeling very down. No motivation to work on code whatsoever. It's like all my energy completely fizzled out. Suddenly coding might not be something that I want to pursue. It's amazing how quickly things can change in my head. Anyway, it was to be expected, thatj's why I'm working on developing routine that will keep me going even if I don't feel like it. I'm making very little progress at the moment but I will find a way out, and pick up a pace. I decided that getting thing to work is more important that trying to understand what is it that I'm doing. So, ill ship first and hope that one day I will get it. No worries.
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
