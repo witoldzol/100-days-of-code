@@ -182,4 +182,12 @@
 
 **Thoughts** I'm excited! Finally I got it done. I was stuck for few days, and now that I figured out what to do, solution seems so simple. I can't believe how easy it was. But what is really of importance, is the fact that now matter how grim situation looks, next day, things don't seem so hard or insurmountable. I really happy that I managed to figure out myself how to lay out the results, utilising my existing knowledge. Somehow it validated all the time that I've put so far in learning JS. It's like: 'yea! I actually learned something'. Happy days. 
 
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp
+
+### Day 21: January 22th, Monday
+
+**Today's Progress**: Styling wikiApp. Very little progress. 
+
+**Thoughts** I've decided that it's time to practice css, and to make my projects look nice. Given that I'm building a portfolio, I have to finally set time aside and wrap my head around this. Unfortunately css is overwhelming with a ton of exceptions, little nuggets, and ...well I failed at copying someone elses work just to make a search bar (which had more lines of js than my whole app! what the hell...). Anyway, I'm having a good time. No pressure, just relax, listen to music and fail repetedly at css. Good times.
+
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
