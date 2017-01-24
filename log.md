@@ -191,3 +191,11 @@
 **Thoughts** I've decided that it's time to practice css, and to make my projects look nice. Given that I'm building a portfolio, I have to finally set time aside and wrap my head around this. Unfortunately css is overwhelming with a ton of exceptions, little nuggets, and ...well I failed at copying someone elses work just to make a search bar (which had more lines of js than my whole app! what the hell...). Anyway, I'm having a good time. No pressure, just relax, listen to music and fail repetedly at css. Good times.
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 22: January 23th, Tuesday
+
+**Today's Progress**: I failed to implement fancy animated searchBar. Back to square one. 
+
+**Thoughts** Wow, I can't even steal other people's work properly and make it work in my project. Pretty embarassing. Haha. To many elements, too complicated...shame. Oh Fine!! I'll do it myself...geeez :)
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
