@@ -194,8 +194,16 @@
 
 ### Day 22: January 23th, Tuesday
 
-**Today's Progress**: I failed to implement fancy animated searchBar. Back to square one. 
+**Today's Progress**: Downloaded Git and Alfred(???). I failed to implement fancy animated searchBar. Back to square one. 
 
 **Thoughts** Wow, I can't even steal other people's work properly and make it work in my project. Pretty embarassing. Haha. To many elements, too complicated...shame. Oh Fine!! I'll do it myself...geeez :)
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+
+### Day 22: January 23th, Tuesday
+
+**Today's Progress**: Styled Search buttons and bar. 'Fixed autocomplete issue with  spilling menu'
+
+**Thoughts** Quite frustrating day. I don't feel like I'm learning anything abut css, but I do feel like I forgot why my javascript works. It's amazing how quickly things go away. I'm also frustrated with how little time I have. I 'waste' a lot of time after coming back from work...I know I will never achieve enough progress if I stick to 1/2 hour a day regime. It just aint gonna happen. I need more time, so it's time to buckle down. Somehow..
 
 **Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
