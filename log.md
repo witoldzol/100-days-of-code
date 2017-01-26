@@ -182,7 +182,7 @@
 
 **Thoughts** I'm excited! Finally I got it done. I was stuck for few days, and now that I figured out what to do, solution seems so simple. I can't believe how easy it was. But what is really of importance, is the fact that now matter how grim situation looks, next day, things don't seem so hard or insurmountable. I really happy that I managed to figure out myself how to lay out the results, utilising my existing knowledge. Somehow it validated all the time that I've put so far in learning JS. It's like: 'yea! I actually learned something'. Happy days. 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
 
 ### Day 21: January 22th, Monday
 
@@ -190,7 +190,7 @@
 
 **Thoughts** I've decided that it's time to practice css, and to make my projects look nice. Given that I'm building a portfolio, I have to finally set time aside and wrap my head around this. Unfortunately css is overwhelming with a ton of exceptions, little nuggets, and ...well I failed at copying someone elses work just to make a search bar (which had more lines of js than my whole app! what the hell...). Anyway, I'm having a good time. No pressure, just relax, listen to music and fail repetedly at css. Good times.
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
 
 ### Day 22: January 23th, Tuesday
 
@@ -198,12 +198,21 @@
 
 **Thoughts** Wow, I can't even steal other people's work properly and make it work in my project. Pretty embarassing. Haha. To many elements, too complicated...shame. Oh Fine!! I'll do it myself...geeez :)
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
 
-### Day 22: January 23th, Tuesday
+### Day 23: January 24th, Wednesday
 
 **Today's Progress**: Styled Search buttons and bar. 'Fixed autocomplete issue with  spilling menu'
 
 **Thoughts** Quite frustrating day. I don't feel like I'm learning anything abut css, but I do feel like I forgot why my javascript works. It's amazing how quickly things go away. I'm also frustrated with how little time I have. I 'waste' a lot of time after coming back from work...I know I will never achieve enough progress if I stick to 1/2 hour a day regime. It just aint gonna happen. I need more time, so it's time to buckle down. Somehow..
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+
+### Day 24/25: January 25/26th, Thursday/Friday
+
+**Today's Progress**: Finished styling wikiApp
+
+**Thoughts** Good day! I still fail horribly at css, but I can at least put something together that doesn't look like a pile of dog crap. Very happy with myself. Added transitions, fade in etc...looks cool :)
+There's plenty to fix, like autocomplete, style could be much better, search bar is not scalable...but you know what? I won't let perfectionism bring me down. Ship it, and move on ! 
+
+**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
