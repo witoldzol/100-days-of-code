@@ -157,7 +157,7 @@
 
 **Thoughts** I'm falling off the wagon. I break my own rules. Wiki project feels overwhelming. I have to break it up. Wrap my head around it. Take my time to learn and understand how things work. So far it feels as if I copy pasted all the code. I have no idea what I'm doing. But that's ok, lets get things working, and figure out why later. 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][https://github.com/witoldzol/weatherApp]
 
 
 ### Day 18: January 19th, Friday
@@ -166,7 +166,7 @@
 
 **Thoughts** Again feeling lazy, the scale of the problem feels overwhelming. No idea how to start. Can't even get the API to work. Gonna take a step back today. I feel tired. 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][https://github.com/witoldzol/weatherApp]
 
 ### Day 19: January 20th, Saturday
 
@@ -174,7 +174,7 @@
 
 **Thoughts** I'm feeling very down. No motivation to work on code whatsoever. It's like all my energy completely fizzled out. Suddenly coding might not be something that I want to pursue. It's amazing how quickly things can change in my head. Anyway, it was to be expected, thatj's why I'm working on developing routine that will keep me going even if I don't feel like it. I'm making very little progress at the moment but I will find a way out, and pick up a pace. I decided that getting thing to work is more important that trying to understand what is it that I'm doing. So, ill ship first and hope that one day I will get it. No worries.
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][https://github.com/witoldzol/weatherApp]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][https://github.com/witoldzol/weatherApp]
 
 ### Day 20: January 21th, Sunday
 
@@ -182,7 +182,7 @@
 
 **Thoughts** I'm excited! Finally I got it done. I was stuck for few days, and now that I figured out what to do, solution seems so simple. I can't believe how easy it was. But what is really of importance, is the fact that now matter how grim situation looks, next day, things don't seem so hard or insurmountable. I really happy that I managed to figure out myself how to lay out the results, utilising my existing knowledge. Somehow it validated all the time that I've put so far in learning JS. It's like: 'yea! I actually learned something'. Happy days. 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][http://codepen.io/Witold/pen/egWjXq]
 
 ### Day 21: January 22th, Monday
 
@@ -190,7 +190,7 @@
 
 **Thoughts** I've decided that it's time to practice css, and to make my projects look nice. Given that I'm building a portfolio, I have to finally set time aside and wrap my head around this. Unfortunately css is overwhelming with a ton of exceptions, little nuggets, and ...well I failed at copying someone elses work just to make a search bar (which had more lines of js than my whole app! what the hell...). Anyway, I'm having a good time. No pressure, just relax, listen to music and fail repetedly at css. Good times.
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][http://codepen.io/Witold/pen/egWjXq]
 
 ### Day 22: January 23th, Tuesday
 
@@ -198,7 +198,7 @@
 
 **Thoughts** Wow, I can't even steal other people's work properly and make it work in my project. Pretty embarassing. Haha. To many elements, too complicated...shame. Oh Fine!! I'll do it myself...geeez :)
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][http://codepen.io/Witold/pen/egWjXq]
 
 ### Day 23: January 24th, Wednesday
 
@@ -206,13 +206,29 @@
 
 **Thoughts** Quite frustrating day. I don't feel like I'm learning anything abut css, but I do feel like I forgot why my javascript works. It's amazing how quickly things go away. I'm also frustrated with how little time I have. I 'waste' a lot of time after coming back from work...I know I will never achieve enough progress if I stick to 1/2 hour a day regime. It just aint gonna happen. I need more time, so it's time to buckle down. Somehow..
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][http://codepen.io/Witold/pen/egWjXq]
 
-### Day 24/25: January 25/26th, Thursday/Friday
+### Day 24: January 26th, Thursday
 
 **Today's Progress**: Finished styling wikiApp
 
 **Thoughts** Good day! I still fail horribly at css, but I can at least put something together that doesn't look like a pile of dog crap. Very happy with myself. Added transitions, fade in etc...looks cool :)
 There's plenty to fix, like autocomplete, style could be much better, search bar is not scalable...but you know what? I won't let perfectionism bring me down. Ship it, and move on ! 
 
-**Link(s) to work**: [https://codepen.io/Witold/pen/oBzvWB][http://codepen.io/Witold/pen/egWjXq]
+**Link(s) to work**: [https://github.com/witoldzol/wikiApp][http://codepen.io/Witold/pen/egWjXq]
+
+### Day 25: January 27th, Friday
+
+**Today's Progress**: Prepped structure for twitchApp. Did bit of research into twitch API.
+
+**Thoughts** Feeling extremely lazy. I've been procrastinating since coming back from work. I need to get into it, and start solving problems. Theres a ton of stuff I need to do in real life as well, and it's bringing my spirits down. It will help if I clear things up in private space. Clear my mind. 
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB
+
+### Day 26: January 28th, Saturday
+
+**Today's Progress**: Created work account on google and twitch. Obtained twitch client id and used it to get twitch API working. Created variables based on pulled data via Ajax. 
+
+**Thoughts** I had friends come over to play boardgames. We started around 1pm, finished at 3 am...but surprisingly to myself I decided I HAVE TO PUT IN AT LEAST ONE HOUR...and I did it. It's amazing, but I got a lot done. And without any frustrations even though I was tired and tipsy. Damn, I'm actually proud of myself. If someone told me month ago that I'd sit in front of computer at 3am and code ajax get requests I would laught at him/her. Upward and forward!
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
