@@ -232,3 +232,11 @@ There's plenty to fix, like autocomplete, style could be much better, search bar
 **Thoughts** I had friends come over to play boardgames. We started around 1pm, finished at 3 am...but surprisingly to myself I decided I HAVE TO PUT IN AT LEAST ONE HOUR...and I did it. It's amazing, but I got a lot done. And without any frustrations even though I was tired and tipsy. Damn, I'm actually proud of myself. If someone told me month ago that I'd sit in front of computer at 3am and code ajax get requests I would laught at him/her. Upward and forward!
 
 **Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+### Day 27: January 29th, Sunday
+
+**Today's Progress**: Working on javascript for twitchApp. 
+
+**Thoughts** I stayed in bed till 1pm, then I had a breakfast and had to play therapist for my housemate again. It's annoying, I don't need this. At the same time I keep reminding myself to be compasionate and support others. Still, annoying. Before I knew what happened I ended up playing some silly indie game till midnight. Seriously...oh well, I accepted that and decided not to berate myself. Just move on and deal with the situation. I'm coding for an hour 'today', no matter what. And I freaking did! I'm happy withmyself not to fall of the wagon, despite my best efforts to sabotage myself. Ha!
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
