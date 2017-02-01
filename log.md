@@ -240,3 +240,27 @@ There's plenty to fix, like autocomplete, style could be much better, search bar
 **Thoughts** I stayed in bed till 1pm, then I had a breakfast and had to play therapist for my housemate again. It's annoying, I don't need this. At the same time I keep reminding myself to be compasionate and support others. Still, annoying. Before I knew what happened I ended up playing some silly indie game till midnight. Seriously...oh well, I accepted that and decided not to berate myself. Just move on and deal with the situation. I'm coding for an hour 'today', no matter what. And I freaking did! I'm happy withmyself not to fall of the wagon, despite my best efforts to sabotage myself. Ha!
 
 **Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+### Day 28: January 30th, Monday	
+
+**Today's Progress**: Finished main api functionality and container population. Search bar, offline/online indicator and css remain. 
+
+**Thoughts** Another day spent playing game. It's ok, I need to get it out of my system. I will be patient, meanwhile I put in my hour. I'm happy. Things are moving forward. 
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+### Day 29: January 31th, Tuesday	
+
+**Today's Progress**: Added freecodecamp twitch channel div and online/offline function (function within function...inception style!) 
+
+**Thoughts** And again..I played game...did bit of coding before sleep. I'm not super excited about my slow progress, but it's better than bailing. I want to figure out how to drag myslef sooner in front of text editor, because once I do, things go well.
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+### Day 30: February 1st, Wednesday	
+
+**Today's Progress**: Literally no progress! I tweaked one line and added error display on..well error in ajax function.
+
+**Thoughts** I have a lot on my mind lately. It weighs on me heavily. Upcoming holidays (I hate holidays!...the planning and spending money part that is), and the whole naturalisation application and crap associated with it. I gotta clear these things out, so I can focus on whats important: coding! All in all, I'm actually happy with myself, normally I'd quit 10 times over normally. And yet I'm still here, typing jibberish, day after day. More interestingly, I don't have this nagging thought at the back of my head whispering ominously 'you wont make it..'. Power of habits indeed! That strange sense of confidence is trully awesome. That's it for today, tomorrow is looking up!
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
