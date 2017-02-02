@@ -1,0 +1,7 @@
+### Day 31: February 2st, Thursday	
+
+**Today's Progress**: Added ajax call to return searched channel. Updated function that check if channel is online. Got stuck as it keeps returning undefined value.
+
+**Thoughts** I have no idea what I'm doing. I have no idea how these freaking functions work! It's so inefficient to learn like this. Someone could just save me hours by pointing out...'hey this function does this and that and that's why this and that is happening'. But alas, there is noone out there, so I continue bashing my head into the keyboard. Now I realise I sound bitchy, and that's not the case. I'm enjoing myself. It's just afterthought, that I could learn so much faster. But hey, who cares? 
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
