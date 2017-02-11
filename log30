@@ -61,3 +61,28 @@
 **Thoughts** Today was a great day. I've made a cool macro at work, then another one...tons of fun. At home, I decided to do research before going back to the issue of variable scope. Few youtube vids later I was ready to take on the world. 3 hours later it still won't work. I'm not even mad, interestingly I feel good. I didn't achieve anything tangible, but I guess I learned stuff, and that's good enough. I still don't understand the whole scope etc., otherwise I would have figured this problem out. But hey, steady does it. I'll be back tomorrow, and the day after, undill callbacks, scopes and whatever the fok javascript has in it's pockets, will become clear! Onwards and upwards, hey ho!!
 
 **Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+### Day 39: February 10th, Friday	
+
+**Today's Progress**: Finished online/offline check.
+
+**Thoughts** Oh God! I did it, after three...four days! I never found out what was wrong with that ajax scope and why on earth it wouldn't pass the variable. But it doesn't matter. I realised I implemented perfectly fine online/offline check before...and forgot all about it! Insane. I spend four days pulling hair out of my freaking head over a problem to which I had already made a solution. Oh well, at least I learned about scope and stuff. My understanding is that deeper, and app is finished....just gotta do CSS...again.
+So happy. Damn, this is why I code!
+
+**Link(s) to work**: [https://github.com/witoldzol/twitchApp][http://codepen.io/Witold/pen/MJOpJB]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
