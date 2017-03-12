@@ -62,3 +62,11 @@ Anyway, enough for today. Quick session.
 **Thoughts** Today was a relaxing day. I've done a bit of reading, bit of youtube, took a stab at the object comparison. Nothing realy achieved or learned, but still good day. I'm positive. I had fun playing board game, overall pleasent day. Trying to stay in the moment I guess. I notice a frustration simmering underneath my skin. I explode easily and I've got dickhead responsens a lot of times. No idea why. Is it because of procrastination? Could be. I'd like to work on coding habit again. Start at specific time, establish cue to enhance habit. Keep reinforcing it.  
 
 **Link(s) to work**: [https://github.com/witoldzol/intermed.algorithms][]
+
+### Day 69: March 12th, Sunday	
+
+**Today's Progress**:  Finished prime factoring loop for multiple numbers [nested loop]
+
+**Thoughts** Yes! I did it, finally figured out what to do. I had to read the problem again, realised it is far more complex than I thought, wated to give up. Seriously! But then I realised that I just need to break it down, and I can do this! Efficacy. Anyway, I had a thought, maybe all I have to do is find prime factors for all numbers, and somehow it will all add up magically. I took an old fashioned piece of paper and pen, and did what my math teacher from DIT taught me. Test it, step by step, see where it leads you. Well, turns out it led me to an answer. Yes, it did add up! So all I had to do was to nest my original loop inside another one that would go through all the numbers. Took me ages, because I missed one variable, but hey...it wouldn't be a coding evening if I didn't miss a proverbial semicolon. Anyway, I'm nearly there. Now I have to figure out how to filter the prime numbers, and we are done! 
+
+**Link(s) to work**: [https://github.com/witoldzol/intermed.algorithms][]
