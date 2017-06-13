@@ -462,3 +462,11 @@ Worst case scenario? I will survive this dissapointment, best...well, sky's the 
 properties with relevant information. Well, it seems there is no such thing as object constructor. I mean, it must be there, i just can't find it / write it. I will have to accept that it will take more time than I anticipated (seriously?). The big thing today was the fact that I got overwhelmed, frustrated and walked away to watch tv shows. Well no surprise here, but the new thing is that I noticed! I mean, I know whats happening, now I need to implement strategy to couteract this behaviour. I gotta find a tool to fix my insta broken emotion when things don't go my way. It's absolutely vital! And for the first time I feel like I can do it!! Also...i hate github, seriously gettign repo going is such a fucking pain in the ass its unbelivable. every motherfucking time something goes wrong. 
 
 **Link(s) to work**: [https://github.com/witoldzol/calculator][]
+
+## Day 150: June 12th, Tuesday
+
+**Today's Progress**:  Researched collections / diaries in vba
+
+**Thoughts** Ok, turns out creating bunch of objects is not the way to go, from what I can gather. I just use one object, populate properties, and dump it into collection/diary. I guess? I'll figure it out. It will be fun actually. Reining all of that in and creating something that works and relives real world issue (haha). 
+
+**Link(s) to work**: [https://github.com/witoldzol/calculator][]
