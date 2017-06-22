@@ -1,0 +1,23 @@
+LINUX NOTES
+
+
+:: shows first / last 10 lines from specified line
+
+head /link/to/file
+tail /link/to
+
+::shows first 5
+head -n5 file 
+
+::filter by age of creation (earliest first)
+ls -t
+
+:: first 4 earliest files
+ls -t | head -n4 
+
+::display / search (will allow you to do a lot of stuff...)
+run comand | less
+
+::read less manual
+man less
+
