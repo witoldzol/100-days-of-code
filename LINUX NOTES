@@ -21,3 +21,12 @@ run comand | less
 ::read less manual
 man less
 
+::how to enable sass
+sass —watch styles.sass:styles.css
+OR watch the whole dir
+sass —-watch sass:css
+
+::how to install bourbon to project directory
+bourbon install --path sass/0-plugins/
+
+
